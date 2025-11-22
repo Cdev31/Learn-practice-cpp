@@ -1,6 +1,0 @@
-
-1-Diferencia entre struct y class.
-2-Tipos de herencia( privada, publica, etc )
-3-enums con alcanze ( enum class )
-4-objetos constantes y metodos constantes
-5-ciclos con rango
